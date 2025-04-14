@@ -6,7 +6,7 @@
 
 ## About Me :
 
-- 🎓 I am a fifth-semester systems engineering student and have participated in various projects during my academic cycle.
+- 🎓 I am a sixth-semester systems engineering student and have participated in various projects during my academic cycle.
 - 🎓 I am currently pursuing my degree at [Universidad Popular del Cesar](https://www.unicesar.edu.co/)
 - 🎓 I also enjoy studying independently in my free time on platforms like Oracle and Cisco.
 - 🏡'Lives in **Colombia**
